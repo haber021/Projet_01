@@ -1,0 +1,10 @@
+CreditScore,Income,EmploymentStatus,LoanApproval
+700,60000,Employed,Yes
+650,40000,Employed,Yes
+600,30000,Unemployed,No
+720,80000,Employed,Yes
+680,70000,Self-Employed,Yes
+610,32000,Unemployed,No
+750,90000,Employed,Yes
+690,75000,Self-Employed,Yes
+640,38000,Unemployed,No
